@@ -1,3 +1,6 @@
+# bir renk belirleyip bunu webcamde ayırt ettim.
+
+
 import cv2
 import numpy as np
 
