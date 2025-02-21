@@ -1,3 +1,6 @@
+# verilen resimdeki para sayısını bulup ekrana yazdırdım.
+
+
 import cv2
 import numpy as np
 
